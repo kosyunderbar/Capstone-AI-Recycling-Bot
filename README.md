@@ -43,10 +43,6 @@
 2.  **Process (Raspberry Pi B):** 탐지된 클래스(Can, Plastic, Paper)에 따라 모터 드라이버(L298N, Relay)에 제어 신호를 보냅니다.
 3.  **Communication (Node.js):** 분류 결과 데이터를 라즈베리파이 A(키오스크)로 전송하여 사용자에게 포인트를 적립합니다. 
 
-<p align="left">
-  <img src="assets/system_architecture.png" alt="System Architecture" width="600px">
-</p>
-
 <br>
 
 ---
